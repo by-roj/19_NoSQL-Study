@@ -1,22 +1,23 @@
-# NoSQL-Study
+# NoSQL Study
 
-'MongoDB in Action' 교재를 매주 공부하고 발제하는 스터디
+Record of studying and presenting NoSQL and MongoDB related data
+Textbook: MongoDB in Action
 
 <br>
 
 ### 📚 Courses
 
-- 1장 : 최신 웰을 위한 도큐먼트 데이터베이스
-- 2장 : 자바스크립트 셸을 통한 MongoDB
-- ~~3장 : MongoDB를 이용한 프로그래밍~~
-- ~~4장 : 도큐먼트 지향 데이터~~
-- 5장 : 쿼리 작성하기
-- 6장 : 집계
-- 7장 : 업데이트, 원자적 연산, 삭제
-- 8장 : 인덱싱과 쿼리 최적화
-- 9장 : 텍스트 검색
-- ~~10장 : WiredTiger와 플러그형 스토리지~~
-- ~~11장 : 복제~~
-- ~~12장 : 샤딩을 통한 시스템 확장~~
-- ~~13장 : 배포와 관리~~
+- Chapter 1: Document database for the lastest well
+- Chapter 2: MongoDB via JavaScript Shell
+- ~~Chapter 3: Programming using MongoDB~~
+- ~~Chapter 4: Document oriented data~~
+- Chapter 5: Creating Queries
+- Chapter 6: Aggregation
+- Chapter 7: Updating, Atomic Operations and Deletion
+- Chapter 8: Indexing and Query Optimization
+- Chapter 9: Searching for text
+- ~~Chapter 10: WiredTiger and Plugged Storage~~
+- ~~Chapter 11: Replication~~
+- ~~Chapter 12: Expanding the system through sharding~~
+- ~~Chapter 13: Deployment and Management~~
 
