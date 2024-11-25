@@ -5,7 +5,7 @@ Textbook: MongoDB in Action
 
 <br>
 
-### 📚 Courses
+### ◻ Courses
 
 - Chapter 1: Document database for the lastest well
 - Chapter 2: MongoDB via JavaScript Shell
